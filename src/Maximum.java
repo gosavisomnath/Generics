@@ -19,6 +19,9 @@ public class Maximum {
         System.out.println(Maximum.max(x,y,z));
         Float p=2.2f,q=1.2f,r=5.2f;
         System.out.println(Maximum.max(p,q,r));
+        String d="abc",e="pune",f="Mumbai";
+        System.out.println(Maximum.max(d,e,f));
+
 
 
     }
